@@ -1,6 +1,6 @@
 The backEnd of this project was Created Using NODE JS And Mongo Db (https://github.com/ammarzaa87/User-Backend---Node-JS--Mongo-Db.git)
 
-In this Project there is a table, Data fetched from node JS API and Displayed it in this table.
+In this Project there is a table that fetches data from node JS API and Display it in this table.
 
 when pressing on add user button A modal will oppend and you can add user using POST API
 
